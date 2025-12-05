@@ -1,0 +1,8 @@
+openai-whisper
+yt-dlp
+canvasapi
+pandas
+gspread
+gspread-dataframe
+requests
+bs4
